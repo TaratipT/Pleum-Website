@@ -1,0 +1,36 @@
+body {
+    background-image: url(bg.jpg);
+}
+
+.center{
+    display: block;
+    width: 280px;
+    margin: auto;
+    padding: 0%;
+}
+
+.container{
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+.self{
+    text-align: center;
+    border: 2px solid whitesmoke;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    padding:center;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+h3{
+    color: aliceblue;
+}
+
+.mine{
+    color: aliceblue;
+}
